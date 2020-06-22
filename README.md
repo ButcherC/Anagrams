@@ -1,0 +1,2 @@
+# Anagrams
+Python program that chooses a 6-letter word at random from the lexicon and displays it to the user in a random, scrambled order. Then lets the user guess words of varying lengths that can be formed with the letters of the word. After every guess, respond to the user whether the guess was correct, and add it to the list of words that have been guessed so far. Print results grouped by length of words.
